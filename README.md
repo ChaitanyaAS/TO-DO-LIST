@@ -98,5 +98,3 @@ If you face any issues with transactions or contract interaction:
 - Ensure your **Infura project ID** and **private key** are correctly set.
 - Check for errors in the **console logs** for any issues with the smart contract or frontend interaction.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
