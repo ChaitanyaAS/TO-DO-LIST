@@ -98,4 +98,4 @@ If you face any issues with transactions or contract interaction:
 - Ensure your **Infura project ID** and **private key** are correctly set.
 - Check for errors in the **console logs** for any issues with the smart contract or frontend interaction.
 
-SINCE TEH FILE IS LARGE CANNOT UPLOAD THE FILE HERE.
+SINCE THE FILE IS LARGE CANNOT UPLOAD THE FILE HERE CONTACT FOR PROJECT.
